@@ -22,9 +22,9 @@
 
 ## 📁 Key Repositories & Implementations
 
-### 🧑‍💻 [LeetCode Practice Solutions](https://github.com)
-*   Structured repository archiving daily problem-solving strategies implemented in **Java**.
-*   Focuses on optimal Time & Space complexity metrics for core Data Structures and Algorithms.
+### 💼 [Ajay-portfolio](https://github.com)
+*   **Architecture:** Full-stack personal showcase built with a React frontend, Java Spring Boot backend micro-services, and a MySQL database layer.
+*   **Impact:** Consolidates technical skills, interactive project breakdowns, and direct API communication pathways for deep profile engagement.
 
 ### 🚀 Full-Stack Enterprise Blueprint (Project Reference)
 *   **Architecture:** Scalable Spring Boot REST APIs paired with a responsive React frontend user interface.

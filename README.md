@@ -13,7 +13,6 @@
 ## 📊 Coding Metrics & Analytics
 
 ### 💡 LeetCode Performance
-<!-- IMPORTANT: Replace 'YOUR_LEETCODE_USERNAME' with your actual LeetCode profile name -->
 <a href="https://leetcode.com">
   <img src="https://herokuapp.com" alt="LeetCode Stats" />
 </a>

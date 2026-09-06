@@ -1,4 +1,4 @@
-# Hi there, I'm Ajay R 👋 (@Ajayravichandran31)
+# Hi there, I'm Ajay R 👋 
 ### Full-Stack Developer | Backend & Cloud Enthusiast
 
 ---

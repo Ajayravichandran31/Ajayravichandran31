@@ -152,17 +152,6 @@ A collection of my Java solutions while improving problem-solving and Data Struc
 
 **Focus:** Java • DSA • Problem Solving
 
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajayravichandran31&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajayravichandran31&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">

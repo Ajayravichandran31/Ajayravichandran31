@@ -185,35 +185,105 @@ https://ajay-portfolio-nine-gold.vercel.app/
 
 ---
 
-# 📈 My Developer Journey
+# 🚀 My Developer Journey
 
 <div align="center">
 
-```text
-🌐 HTML / CSS
-       ↓
-⚡ JavaScript
-       ↓
-⚛️ React.js
-       ↓
-☕ Java
-       ↓
-🍃 Spring Boot
-       ↓
-🔗 REST APIs
-       ↓
-🗄️ MySQL
-       ↓
-🚀 Full Stack Development
-```
+### From writing my first lines of code to building full-stack applications.
 
-### Building skills one layer at a time.
+<br>
 
-**Frontend** → React.js
-**Backend** → Java + Spring Boot
-**Database** → MySQL
-**API** → REST APIs
-**Tools** → Git + GitHub + Postman
+<table>
+<tr>
+<td align="center" width="140">
+
+### 🌐
+
+**Frontend**
+
+React.js
+JavaScript
+HTML • CSS
+
+</td>
+
+<td>→</td>
+
+<td align="center" width="140">
+
+### ☕
+
+**Core**
+
+Java
+OOP
+DSA
+
+</td>
+
+<td>→</td>
+
+<td align="center" width="140">
+
+### ⚙️
+
+**Backend**
+
+Spring Boot
+REST APIs
+JPA
+
+</td>
+
+<td>→</td>
+
+<td align="center" width="140">
+
+### 🗄️
+
+**Database**
+
+MySQL
+SQL
+Data Modeling
+
+</td>
+
+<td>→</td>
+
+<td align="center" width="140">
+
+### 🚀
+
+**Full Stack**
+
+Build
+Test
+Deploy
+
+</td>
+</tr>
+</table>
+
+<br>
+
+`HTML/CSS` → `JavaScript` → `React.js` → `Java` → `Spring Boot` → `REST APIs` → `MySQL` → **🚀 Full Stack**
+
+<br><br>
+
+### 🧠 My Current Focus
+
+|          Area          | Technologies                           |
+| :--------------------: | :------------------------------------- |
+|     🎨 **Frontend**    | React.js • JavaScript • HTML • CSS     |
+|     ⚙️ **Backend**     | Java • Spring Boot • REST APIs         |
+|    🗄️ **Database**    | MySQL • SQL • JPA                      |
+|   🧪 **Development**   | Git • GitHub • Postman • IntelliJ IDEA |
+| 🧩 **Problem Solving** | Java • DSA • LeetCode                  |
+
+<br>
+
+> **Learn → Build → Test → Improve → Repeat 🔁**
 
 </div>
 

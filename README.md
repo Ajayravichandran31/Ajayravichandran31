@@ -187,39 +187,36 @@ https://ajay-portfolio-nine-gold.vercel.app/
 
 # 📈 My Developer Journey
 
+<div align="center">
+
 ```text
-                         ┌───────────────┐
-                         │   HTML / CSS  │
-                         └───────┬───────┘
-                                 ↓
-                         ┌───────────────┐
-                         │  JavaScript   │
-                         └───────┬───────┘
-                                 ↓
-                         ┌───────────────┐
-                         │    React      │
-                         └───────┬───────┘
-                                 ↓
-                         ┌───────────────┐
-                         │     Java      │
-                         └───────┬───────┘
-                                 ↓
-                         ┌───────────────┐
-                         │ Spring Boot   │
-                         └───────┬───────┘
-                                 ↓
-                         ┌───────────────┐
-                         │  REST APIs    │
-                         └───────┬───────┘
-                                 ↓
-                         ┌───────────────┐
-                         │    MySQL      │
-                         └───────┬───────┘
-                                 ↓
-                       🚀 FULL STACK DEVELOPER
+🌐 HTML / CSS
+       ↓
+⚡ JavaScript
+       ↓
+⚛️ React.js
+       ↓
+☕ Java
+       ↓
+🍃 Spring Boot
+       ↓
+🔗 REST APIs
+       ↓
+🗄️ MySQL
+       ↓
+🚀 Full Stack Development
 ```
 
----
+### Building skills one layer at a time.
+
+**Frontend** → React.js
+**Backend** → Java + Spring Boot
+**Database** → MySQL
+**API** → REST APIs
+**Tools** → Git + GitHub + Postman
+
+</div>
+
 
 # 🎯 2026 Mission
 

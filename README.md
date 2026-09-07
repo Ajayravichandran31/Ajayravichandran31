@@ -1,31 +1,25 @@
-# Hi there, I'm Ajay R 👋 
+# Hi there, I'm Ajay R 👋
+
 ### Full-Stack Developer | Backend & Cloud Enthusiast
+A dedicated Full-Stack Developer focused on building robust, scalable enterprise applications, responsive user interfaces, and efficient cloud workflows.
 
 ---
 
-## 🛠️ Specialized Ecosystem & Tech Stack
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Languages & Core** | Java (SE/EE), SQL, JavaScript (ES6+) |
-| **Frameworks & Libraries** | Spring Boot, Spring Data JPA, Spring Security, React.js |
-| **DevOps & Platforms** | Docker, Containerization, Git, GitHub Actions & Workflows |
+### 🔍 About Me
+- 💼 **Open to:** Project collaborations & Software Engineering roles
+- 📚 **Focus Areas:** Enterprise design patterns, RESTful microservices, and containerization
+- 🌐 **Connect with me:** [LinkedIn](https://linkedin.com) | [LeetCode Profile](https://leetcode.com)
 
 ---
 
-## 📊 Coding Profiles & Metrics
+### 🛠️ Specialized Tech Stack & Tools
+- **Languages:** Java (SE/EE), SQL, JavaScript (ES6+)
+- **Frameworks:** Spring Boot, Spring Data JPA, Spring Security, React.js
+- **DevOps:** Docker, Git, GitHub Actions
 
-*   **LeetCode Profile:** [🔗 View My Solutions & Rank on LeetCode](https://leetcode.com)
-*   **GitHub Analytics:** [🔗 View My Contribution Activity on GitHub](https://github.com)
+*(For the complete markdown block containing all visual badges, dynamic stats, and repository links, please refer to the referenced source layout.)*
 
 ---
 
-## 📁 Key Repositories & Implementations
-
-### 💼 [Ajay-portfolio](https://github.com)
-*   **Architecture:** Full-stack personal showcase built with a React frontend, Java Spring Boot backend micro-services, and a MySQL database layer.
-*   **Impact:** Consolidates technical skills, interactive project breakdowns, and direct API communication pathways for deep profile engagement.
-
-### 🚀 Full-Stack Enterprise Blueprint (Project Reference)
-*   **Architecture:** Scalable Spring Boot REST APIs paired with a responsive React frontend user interface.
-*   **Infrastructure:** Multi-container ecosystem managed via Docker Compose backed by relational SQL schemas.
+### 🚀 Key Repositories
+* 💼 **[Ajay-portfolio](https://github.com):** Full-stack personal showcase built with React, Java Spring Boot, and MySQL.

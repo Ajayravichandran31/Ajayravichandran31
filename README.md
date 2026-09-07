@@ -272,18 +272,28 @@ Deploy
 
 # 🎯 2026 Mission
 
+<div align="center">
+
 ### Building. Learning. Leveling Up. 🚀
 
-- ✅ Build real-world applications
-- ✅ Strengthen Java & Spring Boot
-- ✅ Improve React skills
-- ✅ Practice DSA consistently
-- ✅ Build production-style projects
-- ✅ Contribute to Open Source
-- 🔄 Secure a Software Development Internship
-- 🔄 Become placement-ready
+<br>
 
-> **One commit at a time. One project at a time.**
+| Status | Goal                                     |
+| :----: | :--------------------------------------- |
+|    ✅   | Build real-world applications            |
+|    ✅   | Strengthen Java & Spring Boot            |
+|    ✅   | Improve React skills                     |
+|    ✅   | Practice DSA consistently                |
+|    ✅   | Build production-style projects          |
+|    ✅   | Contribute to Open Source                |
+|   🔄   | Secure a Software Development Internship |
+|   🔄   | Become placement-ready                   |
+
+<br>
+
+> **One commit at a time. One project at a time.** 💻
+
+</div>
 
 ---
 

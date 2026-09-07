@@ -268,8 +268,6 @@ Deploy
 `HTML/CSS` → `JavaScript` → `React.js` → `Java` → `Spring Boot` → `REST APIs` → `MySQL` → **🚀 Full Stack**
 
 <br><br>
-
-
 # 🎯 2026 Mission
 
 <div align="center">
@@ -294,8 +292,6 @@ Deploy
 > **One commit at a time. One project at a time.** 💻
 
 </div>
-
----
 
 # 🌐 Connect With Me
 

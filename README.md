@@ -1,206 +1,245 @@
-# 👋 Hey, I'm Ajay R.
+<div align="center">
 
-### 💻 Java Full Stack Developer | B.Tech IT Student | Building Real-World Web Applications
+# 👋 Hey, I'm **Ajay R.**
 
-I'm an **Information Technology student** passionate about turning ideas into functional, responsive and user-friendly web applications.
+### `Java Full Stack Developer` • `B.Tech IT Student` • `Problem Solver`
 
-I enjoy working across the **frontend, backend and database layers** — from designing interfaces with React to building REST APIs with Spring Boot and managing data with MySQL.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Full+Stack+Web+Applications;Java+%7C+Spring+Boot+%7C+React+%7C+MySQL;Turning+Ideas+Into+Working+Software;Always+Learning.+Always+Building.+%F0%9F%9A%80" alt="Typing SVG" />
 
-🚀 **Currently focused on:** Java • Spring Boot • React • MySQL • REST APIs
+<br/>
 
-🎯 **Goal:** Become a strong Full Stack Developer and build software that solves real-world problems.
+<a href="https://github.com/Ajayravichandran31">
+  <img src="https://img.shields.io/github/followers/Ajayravichandran31?label=Followers&style=for-the-badge&logo=github&color=181717"/>
+</a>
+<a href="https://github.com/Ajayravichandran31?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-12-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://my-portfolio-3ssf.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Live-00C7B7?style=for-the-badge&logo=vercel"/>
+</a>
+
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-```java
-public class Ajay {
+```yaml
+name: Ajay R.
+role: Aspiring Java Full Stack Developer
+education: B.Tech Information Technology
 
-    String role = "Aspiring Full Stack Developer";
-    String education = "B.Tech Information Technology";
-    
-    String[] backend = {
-        "Java",
-        "Spring Boot",
-        "REST APIs"
-    };
+focus:
+  - Backend Development
+  - Full Stack Web Development
+  - REST API Development
+  - Database Design
+  - Problem Solving
 
-    String[] frontend = {
-        "React.js",
-        "HTML",
-        "CSS",
-        "JavaScript"
-    };
+currently_learning:
+  - Advanced Java
+  - Spring Boot
+  - Data Structures & Algorithms
+  - Full Stack Development
 
-    String[] database = {
-        "MySQL"
-    };
-
-    String[] tools = {
-        "Git",
-        "GitHub",
-        "Postman",
-        "IntelliJ IDEA",
-        "VS Code"
-    };
-
-    String currentlyLearning =
-        "Advanced Java & Spring Boot";
-
-    String mindset =
-        "Learn → Build → Break → Fix → Repeat 🚀";
-}
+mindset: "Learn → Build → Break → Fix → Repeat 🚀"
 ```
 
----
+I enjoy building **responsive web applications and backend systems** that solve practical problems.
 
-## ⚡ What I'm Working On
-
-🔹 Building **full-stack web applications** using Java + Spring Boot + React
-
-🔹 Improving my knowledge of **REST APIs, SQL and backend development**
-
-🔹 Building and improving my **developer portfolio**
-
-🔹 Practicing **Java & Data Structures**
-
-🔹 Preparing for **internships and software development placements**
+My current focus is becoming stronger in **Java + Spring Boot + React + MySQL**, while continuously improving my problem-solving skills.
 
 ---
 
-# 🛠️ Tech Stack
+# ⚡ Tech Arsenal
 
-### 💻 Languages
+### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css" />
+</p>
 
-### 🎨 Frontend
+### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+<p>
+<img src="https://skillicons.dev/icons?i=react" />
+</p>
 
-### ⚙️ Backend
+### Backend & Database
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=spring,mysql" />
+</p>
 
-### 🗄️ Database
+### Tools
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### 🔧 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode" />
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
+<div align="center">
+
+<a href="https://github.com/Ajayravichandran31">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajayravichandran31&repo=student-management-system2&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Ajayravichandran31">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajayravichandran31&repo=leetcodePractice&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
 ### 🌱 Farmer To Consumer
 
-A full-stack platform designed to connect farmers directly with consumers.
+> A full-stack platform designed to connect farmers directly with consumers.
 
-**Tech:** React.js • Java • Spring Boot • MySQL • REST APIs
+**Stack**
 
-**Highlights:**
+`React.js` `Java` `Spring Boot` `MySQL` `REST API`
 
-* 👨‍🌾 Farmer and consumer workflows
-* 🛒 Product listing and ordering
-* 💬 Communication features
-* 🌐 Responsive web interface
-* 🔐 Backend API architecture
+**Key Features**
+
+* 👨‍🌾 Farmer & consumer workflows
+* 📦 Product management
+* 🛒 Ordering functionality
+* 🔌 REST API architecture
+* 📱 Responsive interface
 
 ---
 
 ### 🎓 Student Management System
 
-A backend-focused application for managing student records efficiently.
+> A backend-focused application for efficiently managing student records.
 
-**Tech:** Java • Spring Boot • Spring Data JPA • MySQL • REST APIs
+**Stack**
 
-**Highlights:**
+`Java` `Spring Boot` `Spring Data JPA` `MySQL`
 
-* ➕ Create student records
-* 📋 View student information
-* ✏️ Update student details
-* 🗑️ Delete records
-* 🔌 REST API development
-* 🧪 API testing with Postman
+**Key Features**
+
+* Create student records
+* Read student information
+* Update student details
+* Delete records
+* REST API development
+* Postman API testing
 
 ---
 
-### 🌐 Personal Developer Portfolio
+### 🌐 Personal Portfolio
 
-My personal portfolio website showcasing my skills, projects and development journey.
+> My personal developer portfolio showcasing my skills, projects and development journey.
 
-**Tech:** React.js • JavaScript • HTML • CSS
+**Stack**
 
-🔗 **Live Portfolio:** [Visit My Portfolio](https://ajay-portfolio-nine-gold.vercel.app/)
+`React.js` `JavaScript` `HTML` `CSS`
+
+🚀 **Live:**
+https://my-portfolio-3ssf.vercel.app/
 
 ---
 
 ### 🧠 LeetCode Practice
 
-A collection of my Java solutions while improving problem-solving and Data Structures & Algorithms.
+> My collection of Java solutions while improving DSA and problem-solving skills.
 
-**Focus:** Java • DSA • Problem Solving
+**Focus**
 
-# 🔥 GitHub Streak
+`Java` `Data Structures` `Algorithms` `Problem Solving`
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ajayravichandran31&theme=tokyonight&hide_border=true"/>
-</p>
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ajayravichandran31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajayravichandran31&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Ajayravichandran31&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ajayravichandran31/Ajayravichandran31/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
 
 ---
 
 # 📈 My Developer Journey
 
 ```text
-HTML / CSS
-     ↓
-JavaScript
-     ↓
-React.js
-     ↓
-Java
-     ↓
-Spring Boot
-     ↓
-REST APIs
-     ↓
-MySQL
-     ↓
-Full Stack Development 🚀
+                         ┌───────────────┐
+                         │   HTML / CSS  │
+                         └───────┬───────┘
+                                 ↓
+                         ┌───────────────┐
+                         │  JavaScript   │
+                         └───────┬───────┘
+                                 ↓
+                         ┌───────────────┐
+                         │    React      │
+                         └───────┬───────┘
+                                 ↓
+                         ┌───────────────┐
+                         │     Java      │
+                         └───────┬───────┘
+                                 ↓
+                         ┌───────────────┐
+                         │ Spring Boot   │
+                         └───────┬───────┘
+                                 ↓
+                         ┌───────────────┐
+                         │  REST APIs    │
+                         └───────┬───────┘
+                                 ↓
+                         ┌───────────────┐
+                         │    MySQL      │
+                         └───────┬───────┘
+                                 ↓
+                       🚀 FULL STACK DEVELOPER
 ```
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 2026 Mission
 
-* [x] Build my developer portfolio
-* [x] Build Java/Spring Boot projects
-* [x] Learn REST API development
-* [x] Work with MySQL
-* [ ] Strengthen Data Structures & Algorithms
-* [ ] Build more production-style full-stack applications
-* [ ] Contribute to Open Source
-* [ ] Secure a Software Development Internship
-* [ ] Become placement-ready 🚀
+```text
+☑ Build real-world applications
+☑ Strengthen Java
+☑ Learn Spring Boot deeply
+☑ Improve React skills
+☑ Practice DSA
+☑ Build production-style projects
+☑ Contribute to Open Source
+☐ Secure a Software Development Internship
+☐ Become placement-ready
+```
 
 ---
 
-# 🤝 Let's Connect
+# 🌐 Connect With Me
 
-I'm always interested in learning, collaborating and building new things.
-
-<p align="left">
+<div align="center">
 
 <a href="https://github.com/Ajayravichandran31">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -210,14 +249,22 @@ I'm always interested in learning, collaborating and building new things.
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
+<a href="https://ajay-portfolio-nine-gold.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-### 💡 Developer Philosophy
+<div align="center">
 
-> **"Don't just learn technology. Build something with it."**
+### 💭 `Code. Learn. Build. Repeat.`
 
-⭐ If you find any of my projects useful, consider giving them a star!
+<img src="https://komarev.com/ghpvc/?username=Ajayravichandran31&label=Profile%20Views&color=0e75b6&style=flat" />
 
-**Thanks for visiting my profile! 🚀**
+<br/><br/>
+
+⭐ **If you like my work, consider starring my repositories!**
+
+</div>

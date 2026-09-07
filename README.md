@@ -14,7 +14,7 @@
 <a href="https://github.com/Ajayravichandran31?tab=repositories">
   <img src="https://img.shields.io/badge/Repositories-12-181717?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://my-portfolio-3ssf.vercel.app/">
+<a href="https://ajay-portfolio-nine-gold.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Live-00C7B7?style=for-the-badge&logo=vercel"/>
 </a>
 

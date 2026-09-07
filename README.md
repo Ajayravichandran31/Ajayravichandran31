@@ -269,22 +269,6 @@ Deploy
 
 <br><br>
 
-### 🧠 My Current Focus
-
-|          Area          | Technologies                           |
-| :--------------------: | :------------------------------------- |
-|     🎨 **Frontend**    | React.js • JavaScript • HTML • CSS     |
-|     ⚙️ **Backend**     | Java • Spring Boot • REST APIs         |
-|    🗄️ **Database**    | MySQL • SQL • JPA                      |
-|   🧪 **Development**   | Git • GitHub • Postman • IntelliJ IDEA |
-| 🧩 **Problem Solving** | Java • DSA • LeetCode                  |
-
-<br>
-
-> **Learn → Build → Test → Improve → Repeat 🔁**
-
-</div>
-
 
 # 🎯 2026 Mission
 

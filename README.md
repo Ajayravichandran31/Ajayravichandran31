@@ -143,9 +143,9 @@ https://ajay-portfolio-nine-gold.vercel.app/
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ajayravichandran31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api?username=Ajayravichandran31&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajayravichandran31&layout=compact&theme=tokyonight&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajayravichandran31&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 

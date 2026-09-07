@@ -179,7 +179,7 @@ https://ajay-portfolio-nine-gold.vercel.app/
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ajayravichandran31/Ajayravichandran31/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/Ajayravichandran31/Ajayravichandran31/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
 

@@ -189,8 +189,6 @@ https://ajay-portfolio-nine-gold.vercel.app/
 
 <div align="center">
 
-### From writing my first lines of code to building full-stack applications.
-
 <br>
 
 <table>

@@ -139,7 +139,7 @@ My current focus is becoming stronger in **Java + Spring Boot + React + MySQL**,
 `React.js` `JavaScript` `HTML` `CSS`
 
 🚀 **Live:**
-https://my-portfolio-3ssf.vercel.app/
+https://ajay-portfolio-nine-gold.vercel.app/
 
 ---
 

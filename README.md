@@ -149,16 +149,6 @@ https://ajay-portfolio-nine-gold.vercel.app/
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Ajayravichandran31/Ajayravichandran31/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
-
-</div>
-
----
-
 # 🚀 My Developer Journey
 
 <div align="center">

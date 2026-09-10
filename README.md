@@ -107,21 +107,6 @@ My current focus is becoming stronger in **Java + Spring Boot + React + MySQL**,
 * 🔌 REST API architecture
 * 📱 Responsive interface
 
-### 🎓 Student Management System
-
-> A backend-focused application for efficiently managing student records.
-
-**Stack:** `Java` `Spring Boot` `Spring Data JPA` `MySQL`
-
-**Key Features:**
-
-* Create student records
-* Read student information
-* Update student details
-* Delete records
-* REST API development
-* Postman API testing
-
 ### 🌐 Personal Portfolio
 
 > My personal developer portfolio showcasing my skills, projects and development journey.

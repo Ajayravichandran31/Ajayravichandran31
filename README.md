@@ -93,19 +93,27 @@ My current focus is becoming stronger in **Java + Spring Boot + React + MySQL**,
 
 </div>
 
-### 🌱 Farmer To Consumer
+### 🌾 FarmerConnect
 
-> A full-stack platform designed to connect farmers directly with consumers.
+> A Java Full Stack platform that connects farmers directly with buyers, enabling farmers to manage products and buyers to discover and purchase farm products.
 
-**Stack:** `React.js` `Java` `Spring Boot` `MySQL` `REST API`
+**Stack:** `React.js` `Java` `Spring Boot` `Spring Security` `JWT` `MySQL` `REST API`
 
 **Key Features:**
 
-* 👨‍🌾 Farmer & consumer workflows
-* 📦 Product management
-* 🛒 Ordering functionality
-* 🔌 REST API architecture
-* 📱 Responsive interface
+* 👨‍🌾 Role-based Farmer & Buyer workflows
+* 🔐 JWT-based authentication & authorization
+* 📦 Farmer product management
+* 🔎 Buyer product browsing
+* 👤 Farmer & Buyer profiles
+* 🛡️ Role-based API security
+* 🗄️ MySQL database with JPA/Hibernate
+* 🔌 RESTful backend architecture
+* 🚀 Full-stack development with React + Spring Boot
+
+**GitHub:**
+https://github.com/Ajayravichandran31/farmer-connect
+
 
 ### 🌐 Personal Portfolio
 

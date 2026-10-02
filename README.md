@@ -83,14 +83,6 @@ My current focus is becoming stronger in **Java + Spring Boot + React + MySQL**,
 
 <div align="center">
 
-<a href="https://github.com/Ajayravichandran31">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajayravichandran31&repo=student-management-system2&theme=tokyonight&hide_border=true">
-</a>
-
-<a href="https://github.com/Ajayravichandran31">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajayravichandran31&repo=leetcodePractice&theme=tokyonight&hide_border=true">
-</a>
-
 </div>
 
 ### 🌾 FarmerConnect
@@ -123,12 +115,6 @@ https://github.com/Ajayravichandran31/farmer-connect
 
 🚀 **Live:**
 https://ajay-portfolio-nine-gold.vercel.app/
-
-### 🧠 LeetCode Practice
-
-> My collection of Java solutions while improving DSA and problem-solving skills.
-
-**Focus:** `Java` `Data Structures` `Algorithms` `Problem Solving`
 
 ---
 

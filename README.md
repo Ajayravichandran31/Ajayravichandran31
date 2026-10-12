@@ -116,18 +116,6 @@ https://github.com/Ajayravichandran31/farmer-connect
 🚀 **Live:**
 https://ajay-portfolio-nine-gold.vercel.app/
 
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Ajayravichandran31&theme=tokyonight&hide_border=true">
-
-</div>
-
-<br>
-
 # 🌐 Connect With Me
 
 <div align="center">
@@ -151,8 +139,6 @@ https://ajay-portfolio-nine-gold.vercel.app/
 <div align="center">
 
 ### 💭 `Code. Learn. Build. Repeat.`
-
-<img src="https://komarev.com/ghpvc/?username=Ajayravichandran31&label=Profile%20Views&color=0e75b6&style=flat">
 
 <br>
 
